@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/15410c1b-fe44-4d2c-a732-e40762de164f/StorageAccounts/subscriptions/15410c1b-fe44-4d2c-a732-e40762de164f/resourceGroups/djangodemoserver/providers/Microsoft.Storage/storageAccounts/djangodemoserver/subscriptions/15410c1b-fe44-4d2c-a732-e40762de164f/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/shelterdemo",
+    "appService.deploySubpath": "."
+}
