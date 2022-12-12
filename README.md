@@ -1,5 +1,5 @@
 # Pet Shelter
-> Outline a brief description of your project.
+> This is a full-stack web application using python, django, dick
 > Live demo [_here_](https://shelter-demo-walkthruough.azurewebsites.net/).
 
 ## Table of Contents
