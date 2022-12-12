@@ -1,5 +1,72 @@
+# Pet Shelter
+> Outline a brief description of your project.
+> Live demo [_here_](https://shelter-demo-walkthruough.azurewebsites.net/).
 
-# Contributing
+## Table of Contents
+* [General Info](#general-information)
+* [Technologies Used](#technologies-used)
+* [Features](#features)
+* [Setup](#setup)
+* [Project Status](#project-status)
+* [Room for Improvement](#room-for-improvement)
+* [Acknowledgements](#acknowledgements)
+* [Contact](#contact)
+* [License](#license)
+
+
+## General Information
+- I made a full stack application that allows users to browse shelters, add new shelters, view and add entries for new pets available for adoption in those shelters
+- This app is made to increase awareness of available pets in the area and to list pets available for adoption.
+- I wanted to make a full-stack Python application that is built using the Django Framework.
+- I wanted to compare Django with Flask and better understand the benefits of each framework.
+
+
+## Technologies Used
+- Python 
+- Django
+- PostgreSQL
+- Azure Web Services
+
+
+## Features
+List the ready features here:
+- Ability to add pets to existing shelters (all users)
+- Ability to add new shelters (admin access required)
+
+
+## Setup
+A requirements.txt is located in the main folder of the project and lists the dependancies needed to run this project.
+Begin by either forking this, or the ms-learn-django project repo. You need Python installed on your machine.
+
+
+## Project Status
+Project is: _in progress_.
+
+
+## Room for Improvement
+
+Room for improvement:
+- Make a more appealing front-end design / user experience
+- Incorporate the pets.com API for integration with a larger network of shelters.
+
+To do:
+- Add API plugin for pets.com
+- Work on front-end design / UX. 
+
+
+## Acknowledgements
+Give credit here.
+- This project was inspired by my love of animals and desire to learn a new framework.
+- This project was based on [this tutorial](https://learn.microsoft.com/en-us/training/paths/django-create-data-driven-websites/).
+
+
+## Contact
+Created by [@PatrickWright](https://www.github.com/wrightpatrick) - feel free to contact me!
+
+
+## License
+
+## Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
 Contributor License Agreement (CLA) declaring that you have the right to, and actually do, grant us
@@ -13,7 +80,7 @@ This project has adopted the [Microsoft Open Source Code of Conduct](https://ope
 For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or
 contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
 
-# Legal Notices
+## Legal Notices
 
 Microsoft and any contributors grant you a license to the Microsoft documentation and other content
 in this repository under the [Creative Commons Attribution 4.0 International Public License](https://creativecommons.org/licenses/by/4.0/legalcode),
